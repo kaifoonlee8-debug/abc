@@ -1164,15 +1164,13 @@ a {
   line-height: 55px;
   padding: .6rem;
 }
-.cid-vgaA0ZHvJl {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #000000;
+.cid-vgjtJi9KSv {
+  background-image: url("../../../assets/images/whatsapp20image202026-04-1020at2012.45.0220am-1280x853.jpg");
 }
-.cid-vgaA0ZHvJl .mbr-fallback-image.disabled {
+.cid-vgjtJi9KSv .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-vgaA0ZHvJl .mbr-fallback-image {
+.cid-vgjtJi9KSv .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1181,16 +1179,9 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-vgaA0ZHvJl .video-wrapper iframe {
-  width: 100%;
-}
-.cid-vgaA0ZHvJl .mbr-section-title,
-.cid-vgaA0ZHvJl .mbr-section-subtitle,
-.cid-vgaA0ZHvJl .mbr-text {
+.cid-vgjtJi9KSv .mbr-section-title {
+  color: #ffeb69;
   text-align: center;
-}
-.cid-vgaA0ZHvJl .mbr-section-title {
-  color: #ffffff;
 }
 .cid-vgaC9SscTf {
   background-image: url("../../../assets/images/l-intro-1641563204-1600x898.jpg");
@@ -1352,6 +1343,7 @@ a {
 }
 .cid-vgaBXSFX3Q .mbr-description {
   color: #ffeb69;
+  text-align: center;
 }
 .cid-vgaCblmHDg {
   background-image: url("../../../assets/images/60113575fb8db7001cbd2e8d-1934x972.jpg");
@@ -1392,7 +1384,7 @@ a {
 .cid-vgaBYjiIMc {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/bird20the20conjuring-1186x493.png");
 }
 .cid-vgaBYjiIMc .mbr-fallback-image.disabled {
   display: none;
@@ -1417,10 +1409,13 @@ a {
 .cid-vgaBYjiIMc img {
   width: 100%;
 }
+.cid-vgaBYjiIMc .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaBYN4aRq {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/the20conjuring20the20devil20made20me20do20it-1179x494.png");
 }
 .cid-vgaBYN4aRq .mbr-fallback-image.disabled {
   display: none;
@@ -1445,10 +1440,13 @@ a {
 .cid-vgaBYN4aRq img {
   width: 100%;
 }
+.cid-vgaBYN4aRq .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaBZaQxE9 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/bird20the20last-880x486.png");
 }
 .cid-vgaBZaQxE9 .mbr-fallback-image.disabled {
   display: none;
@@ -1473,10 +1471,13 @@ a {
 .cid-vgaBZaQxE9 img {
   width: 100%;
 }
+.cid-vgaBZaQxE9 .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaBZyUmW3 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/the20last20of20us20-20season20120-20episode202-881x492.png");
 }
 .cid-vgaBZyUmW3 .mbr-fallback-image.disabled {
   display: none;
@@ -1501,8 +1502,11 @@ a {
 .cid-vgaBZyUmW3 img {
   width: 100%;
 }
+.cid-vgaBZyUmW3 .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaCcCOApu {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/the20batman-1193x496.png");
 }
 .cid-vgaCcCOApu .mbr-fallback-image.disabled {
   display: none;
@@ -1534,10 +1538,13 @@ a {
   background-color: #232323;
   color: #ffffff;
 }
+.cid-vgaCcCOApu .mbr-section-title {
+  color: #ffffff;
+}
 .cid-vgaBZYtXot {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/the20pursuit20of20happyness-1202x506.png");
 }
 .cid-vgaBZYtXot .mbr-fallback-image.disabled {
   display: none;
@@ -1562,10 +1569,13 @@ a {
 .cid-vgaBZYtXot img {
   width: 100%;
 }
+.cid-vgaBZYtXot .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaC0swgVE {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/to20the20wonder202-1157x480.png");
 }
 .cid-vgaC0swgVE .mbr-fallback-image.disabled {
   display: none;
@@ -1590,10 +1600,13 @@ a {
 .cid-vgaC0swgVE img {
   width: 100%;
 }
+.cid-vgaC0swgVE .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaC0SeAe5 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/to20the20wonder-1175x486.png");
 }
 .cid-vgaC0SeAe5 .mbr-fallback-image.disabled {
   display: none;
@@ -1618,10 +1631,13 @@ a {
 .cid-vgaC0SeAe5 img {
   width: 100%;
 }
+.cid-vgaC0SeAe5 .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaC1cM9HU {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/luce-1210x485.png");
 }
 .cid-vgaC1cM9HU .mbr-fallback-image.disabled {
   display: none;
@@ -1646,8 +1662,11 @@ a {
 .cid-vgaC1cM9HU img {
   width: 100%;
 }
+.cid-vgaC1cM9HU .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgaCdB9AT2 {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/interstellar-1181x491.png");
 }
 .cid-vgaCdB9AT2 .mbr-fallback-image.disabled {
   display: none;
@@ -1679,10 +1698,13 @@ a {
   background-color: #232323;
   color: #ffffff;
 }
+.cid-vgaCdB9AT2 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-vgaC1Df7At {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/the20conjuring202-1169x489.png");
 }
 .cid-vgaC1Df7At .mbr-fallback-image.disabled {
   display: none;
@@ -1707,10 +1729,13 @@ a {
 .cid-vgaC1Df7At img {
   width: 100%;
 }
+.cid-vgaC1Df7At .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgazVHcsK1 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/e4bd8ee8a792e5baa620the20last-879x494.png");
 }
 .cid-vgazVHcsK1 .mbr-fallback-image.disabled {
   display: none;
@@ -1735,10 +1760,13 @@ a {
 .cid-vgazVHcsK1 img {
   width: 100%;
 }
+.cid-vgazVHcsK1 .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgazWOErai {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/spring20breakers-1194x497.png");
 }
 .cid-vgazWOErai .mbr-fallback-image.disabled {
   display: none;
@@ -1763,10 +1791,13 @@ a {
 .cid-vgazWOErai img {
   width: 100%;
 }
+.cid-vgazWOErai .mbr-description {
+  color: #ffeb69;
+}
 .cid-vgazWddkEt {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/peaky20blinders20-20season20120-20episode201-920x492.png");
 }
 .cid-vgazWddkEt .mbr-fallback-image.disabled {
   display: none;
@@ -1790,4 +1821,7 @@ a {
 }
 .cid-vgazWddkEt img {
   width: 100%;
+}
+.cid-vgazWddkEt .mbr-description {
+  color: #ffeb69;
 }
